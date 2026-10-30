@@ -13,13 +13,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VynnLockwood&theme=tokyonight&utcOffset=7" alt="Commit Time" height="180" />
 </p>
 
-<!-- All languages (up to 20). Delete this block if the image does not load -->
-<h3 align="center">All Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VynnLockwood&layout=donut&langs_count=20&theme=tokyonight&hide_border=true" alt="All Languages" />
-</p>
-
-<!-- Language icons (edit this list to match what you use) -->
+<!-- Languages (edit this list to match what you use) -->
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,vue,java,latex,html,css" alt="Languages" />
