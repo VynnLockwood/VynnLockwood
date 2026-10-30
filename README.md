@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm VynnLockwood 👋</h1>
 
-<!--
-**VynnLockwood/VynnLockwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VynnLockwood&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VynnLockwood&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VynnLockwood&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VynnLockwood&theme=tokyo-night&hide_border=true" alt="Commit Activity Graph" />
+</p>
