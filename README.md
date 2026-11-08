@@ -2,22 +2,16 @@
 
 <!-- Overview -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VynnLockwood&theme=tokyonight" alt="GitHub Stats" height="180" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VynnLockwood&theme=tokyonight" alt="Top Languages by Repo" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VynnLockwood&theme=tokyonight" alt="Top Languages by Commit" height="180" />
+  
 </p>
 
 <!-- Profile and activity -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VynnLockwood&theme=tokyonight" alt="Profile Details" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VynnLockwood&theme=tokyonight&utcOffset=7" alt="Commit Time" height="180" />
 </p>
 
-<!-- WakaTime Stats -->
-<h3 align="center">WakaTime Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=PraneshJs&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
-</p>
 
 <!-- Languages (edit this list to match what you use) -->
 <h3 align="center">Languages & Tools</h3>
