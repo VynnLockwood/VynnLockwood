@@ -1,0 +1,9 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: VynnLockwood
+show: [summary, languages, streaks, weekly]
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: github
