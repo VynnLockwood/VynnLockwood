@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Thirathat (VynnLockwood) 👋</h1>
 
-<h3 align="center">AI Engineer · MCP tools · AI agents · Database tooling</h3>
+<h3 align="center">AI Engineer · Full-stack Developer · MCP tools · AI agents · Database tooling</h3>
 
 <p align="center">
   I build AI solutions for workflows and bring AI into the software development process.<br>
